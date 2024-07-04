@@ -148,3 +148,4 @@ java.lang.reflect.InaccessibleObjectException: Unable to make public void sun.ni
 2024-07-04 18:13:39,388 [ForkJoinPool.commonPool-worker-1] INFO  j.exodus.gc.GarbageCollector - Queueing ComputeUtilizationFromScratchJob
 2024-07-04 18:13:48,917 [Exodus shared background cleaner] INFO  j.exodus.gc.GarbageCollector - Started calculation of log utilization from scratch at C:\Users\bruno\.sonarlint\xodus-local-only-issue-store14704336358940953802
 2024-07-04 18:13:48,930 [Exodus shared background cleaner] INFO  j.exodus.gc.GarbageCollector - Finished calculation of log utilization from scratch at C:\Users\bruno\.sonarlint\xodus-local-only-issue-store14704336358940953802
+2024-07-04 18:30:31,912 [ForkJoinPool.commonPool-worker-8] INFO  j.exodus.util.CompressBackupUtil - Backup file "local_only_issue_backup2024-07-04-18-30-31.tar.gz" created.
